@@ -1,4 +1,7 @@
-This is the code repository for NAACL paper: [Unveiling Divergent Inductive Biases of LLMs on Temporal Data](https://openreview.net/pdf?id=i9zND2j9se2) . If you use this code for your work, please cite
+This is the code repository for NAACL paper: 
+<!--[Unveiling Divergent Inductive Biases of LLMs on Temporal Data](https://openreview.net/pdf?id=i9zND2j9se2) .
+-->
+If you use this code for your work, please cite
 <!--
 ```
 @article{skishore2024temporalbias,

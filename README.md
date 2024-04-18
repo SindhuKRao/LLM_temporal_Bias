@@ -30,6 +30,7 @@ pip install -r requirements.txt
 The code is organized as follows:
 <li>DataPrep_Prompt: It consists of code for data preparation and GPT prompts for both Implicit and Explicit Events in both Question Answering and Textual Entailment format.</li>
 <li>Analysis: This shows the results and analysis conducted on the results obtained from the model.</li>
+<li>Sample_Data: Contains sample data and model response for both implicit and explicit events</li>
 
 
 

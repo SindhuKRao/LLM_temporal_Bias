@@ -22,13 +22,16 @@ pip install -r requirements.txt
 
 ## Code Organization
 The code is organized as follows:
+DataPrep_Prompt: It consists of code for data preparation and GPT prompts for both Implicit and Explicit Events in both Question Answering and Textual Entailment format.
+Analysis: This shows the results and analysis conducted on the results obtained from the model.
+
 
 
 ## Export OPENAI API KEY
 You need to export your own OpenAI API key before running experiments with [OpenAI API](https://openai.com/product), i.e., export OPENAI_API_KEY=$YOUR_OPENAI_API_KEY
 
-## Dataset and Data Preparation
+## Dataset
+ For our experimentation, we employed datasets such as TimeBank (Pustejovskyet al., 2003), Tempeval (Verhagen et al., 2010),AQUAINT, and TRACIE (Zhou et al., 2021). More details regarding dataset and  preprocessing is available in the paper and the code.
 
+ ![alt text](https://github.com/SindhuKRao/LLM_temporal_Bias/blob/main/image.jpg?raw=true)
 
-
-## Reproducing Experiments
